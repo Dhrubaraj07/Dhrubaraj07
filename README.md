@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruba</h1>
 <h3 align="center">An enthusiastic Backend Devoloper</h3>
 
-- 🔭 I’m currently working on **Book Factory web app, Full Stack e-commerce website**<a href=https://github.com/Dhrubaraj07/Book-Factory-Web-App.git>
+- 🔭 I’m currently working on <a href=https://github.com/Dhrubaraj07/Book-Factory-Web-App.git> **Book Factory web app**</a> , Full Stack e-commerce website
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
 
