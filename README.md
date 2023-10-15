@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruba</h1>
 <h3 align="center">An enthusiastic Backend Devoloper</h3>
 
-- 🔭 I’m currently working on **Book Factory web app**
+- 🔭 I’m currently working on **Book Factory web app, Full Stack e-commerce website**
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
-
-- 👯 I’m looking to collaborate on **Full Stack e-commerce website**
 
 - 📫 How to reach me **dhrubarajGhosh.7@gmail.com**
 
