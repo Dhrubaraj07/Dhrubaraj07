@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruba</h1>
 <h3 align="center">An enthusiastic Backend Devoloper</h3>
 
-- 🔭 I’m currently working on <a href=https://github.com/Dhrubaraj07/Book-Factory-Web-App.git> **Book Factory web app**</a> , Full Stack e-commerce website
+- 🔭 Worked on prjects like <a href=https://github.com/Dhrubaraj07/Book-Factory-Web-App.git> **Book Factory web app**</a> , **Backend Api's on Social Now Web Application**, **Full Stack WhatsApp Web Clone**
 
-- 🌱 I’m currently learning **Spring Boot, Angular**
+- 🌱 I’m currently learning **Spring Boot, React Js **
 
 - 📫 How to reach me **dhrubarajGhosh.7@gmail.com**
 
