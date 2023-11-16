@@ -3,7 +3,7 @@
 
 - 🔭 Worked on prjects like <a href=https://github.com/Dhrubaraj07/Book-Factory-Web-App.git> **Book Factory web app**</a> , **Backend Api's on Social Now Web Application**, **Full Stack WhatsApp Web Clone**
 
-- 🌱 I’m currently learning **Spring Boot, React Js **
+- 🌱 I’m currently learning Spring Boot | React Js 
 
 - 📫 How to reach me **dhrubarajGhosh.7@gmail.com**
 
