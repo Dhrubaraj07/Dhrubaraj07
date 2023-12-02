@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dhrubaraj Ghosh</h1>
+<h1 align="center">Hi Everyone👋, I'm Dhrubaraj Ghosh</h1>
 <h3 align="center">Enthusiastic backend devoloper and problem solver</h3>
 
-- 🔭 I’m currently working on [Book Factory web app,](https://github.com/Dhrubaraj07/Book-Factory-Web-App)
+- 🔭 I’m currently working on [Book Factory web app | WhatsApp Web Application | Social Now Backend](https://github.com/Dhrubaraj07/Book-Factory-Web-App | https://github.com/Dhrubaraj07/Social-Now-Web-Application https://github.com/Dhrubaraj07/WhatsApp-Web-Application |)
 
 - 🌱 I’m currently learning **React Js | Spring Microservices | Unit Testing**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Gmail:- dhrubarajGhosh.7@gmail.com | LinkedIn:- https://www.linkedin.com/in/dhrubaraj-ghosh-37516a286/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/recent](https://drive.google.com/drive/u/0/recent)
+- 📄 Know about my profile [https://drive.google.com/drive/u/0/recent](https://drive.google.com/drive/u/0/recent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
