@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Gmail:- dhrubarajGhosh.7@gmail.com | LinkedIn:- https://www.linkedin.com/in/dhrubaraj-ghosh-37516a286/**
 
-- 📄 Know about my profile [https://drive.google.com/drive/u/0/recent](https://drive.google.com/drive/u/0/recent)
+- 📄 Know more about my profile [https://drive.google.com/file/d/1vbrPyVgleUYtqB2oVi2yfsQc1Xs2XTA2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
