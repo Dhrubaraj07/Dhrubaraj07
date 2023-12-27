@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone👋, I'm Dhrubaraj Ghosh</h1>
-<h3 align="center">Enthusiastic backend devoloper and problem solver</h3>
+<h3 align="center">Enthusiastic backend devoloper with hands-on skills on Java,Spring Boot,Javascript,React Js</h3>
 
 - 🔭 I’m currently working on [WhatsApp Web Application | Social Now Backend | Book Factory web app]
 - https://github.com/Dhrubaraj07/WhatsApp-Web-Application |
