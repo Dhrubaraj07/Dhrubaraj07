@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone👋, I'm Dhrubaraj Ghosh</h1>
 <h3 align="center">Enthusiastic backend devoloper with hands-on skills on Java,Spring Boot,Javascript,React Js</h3>
 
-- 🔭 I’m currently working on [WhatsApp Web Application | Social Now Backend | Book Factory web app]
+- 🔭 I’m currently working on [Real time chat APP | Social Now Backend | Book Factory web app]
 - https://github.com/Dhrubaraj07/WhatsApp-Web-Application |
 - https://github.com/Dhrubaraj07/Social-Now-Web-Application |
 - https://github.com/Dhrubaraj07/Book-Factory-Web-App |
